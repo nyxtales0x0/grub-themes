@@ -1,0 +1,28 @@
+title-text: ""
+desktop-image: "background.jpg"
+terminal-border: "0"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+
++ boot_menu {
+    left = 0
+    top = 0
+    width = 40%
+    height = 100%
+    menu_pixmap_style = "menu_*.png"
+
+    item_font = "JetBrains Mono NL Regular 24"
+    item_color = "#c0caf5"
+    item_height = 64
+    item_padding = 24
+    item_spacing = 0
+
+    selected_item_color = "#7aa2f7"
+    selected_item_pixmap_style = "selected_item_*.png"
+
+    icon_width = 0
+    icon_height = 0
+    item_icon_space = 16
+}
