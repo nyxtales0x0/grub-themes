@@ -19,6 +19,7 @@ terminal-height: "100%"
     item_spacing = 0
 
     selected_item_color = "#d574c1"
+    selected_item_pixmap_style = "selected_item_*.png"
 
     icon_width = 0
     icon_height = 0
