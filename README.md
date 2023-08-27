@@ -9,7 +9,12 @@ All the themes are made for 1920x1200 screen resolutions. These may not work for
 ## Screenshots
 
 ### Blue Girl
+
 ![](./blue-girl/preview.png)
+
+### Cute Whale
+
+![](./cute-whale/preview.png)
 
 ## Installation
 
