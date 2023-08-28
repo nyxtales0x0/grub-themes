@@ -1,0 +1,47 @@
+title-text: ""
+desktop-image: "background.jpg"
+terminal-border: "0"
+terminal-left: "0"
+terminal-top: "0"
+terminal-width: "100%"
+terminal-height: "100%"
+
++ label {
+    left = 500
+    top = 16
+    width = 312
+
+    text = "GRUB2"
+    font = "Black Ops One Regular 24"
+    color = "#181818"
+    align = "center"
+}
+
++ boot_menu {
+    left = 0
+    top = 397+62
+    width = 40%
+    height = 100%
+
+    item_font = "Black Ops One Regular 24"
+    item_color = "#181818"
+    item_height = 62
+    item_padding = 48
+    item_spacing = 0
+
+    selected_item_color = "#a5a5a5"
+    selected_item_pixmap_style = "selected_item_*.png"
+
+    icon_width = 0
+    icon_height = 0
+    item_icon_space = 16
+}
+
++ label {
+    left = 48+16
+    top = 100%-62+16
+
+    text = "@KEYMAP_SHORT@"
+    font = "Black Ops One Regular 24"
+    color = "#181818"
+}
