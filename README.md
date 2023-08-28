@@ -16,6 +16,10 @@ All the themes are made for 1920x1200 screen resolutions. These may not work for
 
 ![](./cute-whale/preview.png)
 
+### Pink Smoke
+
+![](./pink-smoke/preview.png)
+
 ## Installation
 
 - Clone this git repository and `cd` into it.
